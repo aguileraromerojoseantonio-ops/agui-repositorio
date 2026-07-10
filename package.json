@@ -1,0 +1,13 @@
+
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "Discord music bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
