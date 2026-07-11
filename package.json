@@ -1,13 +1,12 @@
-
 {
-  "name": "music-bot",
+  "name": "telegram-bot",
   "version": "1.0.0",
-  "description": "Discord music bot",
+  "description": "Bot de Telegram funcionando en Railway",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.0.0"
+    "node-telegram-bot-api": "^0.61.0"
   }
 }
